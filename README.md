@@ -3,7 +3,6 @@
 **By:** CoolTek-6 Actual<br>
 **date:** 5August23<br>
 **For:** CoolTek and the CoolKidz<br>
-**From:** Based on a framework @TechVidvan<br>
 **scope:** simple tkinter desktop gui to expand on<br>
 **suggestions:**<br>
 _______ change delete item to completed item,<br>
